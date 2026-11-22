@@ -37,7 +37,7 @@ export const CMS_CONTENT: SiteCMSPayload = {
       { ua: 'Утрехт · ketmade.com', nl: 'Utrecht · ketmade.com', en: 'Utrecht · ketmade.com' },
     ],
     primaryImage: {
-      src: '/src/assets/images/ketmade_hero_vessels_1795345629789.jpg',
+      src: './src/assets/images/ketmade_hero_vessels_1795345629789.jpg',
       alt: {
         ua: 'Колекція авторських керамічних ваз із теракоти та білого шамоту на травертиновому столі',
         nl: 'Collectie handgevormde keramische vazen van terracotta en mat wit steengoed op travertijn',
@@ -45,7 +45,7 @@ export const CMS_CONTENT: SiteCMSPayload = {
       },
     },
     secondaryImage: {
-      src: '/src/assets/images/ketmade_vase_terracotta_1795345629198.jpg',
+      src: '../src/assets/images/ketmade_vase_terracotta_1795345629198.jpg',
       alt: {
         ua: 'Скульптурна теракотова ваза ручного ліплення з фактурною поверхнею',
         nl: 'Sculpturale terracotta vaas met organische rand en tastbare textuur',
